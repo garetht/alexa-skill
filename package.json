@@ -1,6 +1,6 @@
 {
   "name": "alexa-skill",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A standalone version of the Amazon Alexa SDK with ES2015 classes. And tests.",
   "homepage": "",
   "author": {

@@ -1,4 +1,4 @@
-# alexa-skill [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# Alexa Skill
 > A standalone version of the Amazon Alexa SDK with ES2015 classes.
 
 
@@ -12,14 +12,16 @@ $ npm install --save alexa-skill
 ## Usage
 
 ```js
-var alexaSkill = require('alexa-skill');
+var AlexaSkill = require('alexa-skill');
 
-alexaSkill('Rainbow');
+class HelloWorldSkill extends AlexaSkill {
+ //...
+}
 ```
 
 ## License
 
-Apache-2.0 © [Gareth Tan]()
+Apache-2.0 © [Amazon]()
 
 
 [npm-image]: https://badge.fury.io/js/alexa-skill.svg
