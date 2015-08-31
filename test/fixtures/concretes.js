@@ -1,4 +1,4 @@
-import AlexaSkill from '../../lib'
+import AlexaSkill from '../../lib';
 
 /*
 These are minimal implementations of the abstract

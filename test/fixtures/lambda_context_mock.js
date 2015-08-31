@@ -1,10 +1,8 @@
-import sinon from 'sinon';
-
 export default {
-  succeed: function(){},
-  fail: function(){},
-  done: function(){},
-  getRemainingTimeInMillis: function(){},
+  succeed: function() {},
+  fail: function() {},
+  done: function() {},
+  getRemainingTimeInMillis: function() {},
 
   awsRequestId: undefined,
   logStreamName: undefined,
@@ -12,4 +10,4 @@ export default {
   identity: undefined,
   logGroupName: undefined,
   functionName: undefined
-}
+};
