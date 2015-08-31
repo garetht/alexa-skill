@@ -1,11 +1,11 @@
 {
   "name": "alexa-skill",
-  "version": "0.0.0",
-  "description": "A standalone version of the Amazon Alexa SDK with ES2015 classes.",
+  "version": "1.0.0",
+  "description": "A standalone version of the Amazon Alexa SDK with ES2015 classes. And tests.",
   "homepage": "",
   "author": {
-    "name": "Gareth Tan",
-    "email": "garethwtan@gmail.com",
+    "name": "Amazon/Gareth Tan",
+    "email": "",
     "url": ""
   },
   "files": [
