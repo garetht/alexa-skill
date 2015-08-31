@@ -1,4 +1,4 @@
-# Alexa Skill
+# Alexa Skill [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > A standalone version of the Amazon Alexa SDK with ES2015 classes.
 
 
