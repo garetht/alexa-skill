@@ -1,0 +1,34 @@
+{
+  "name": "alexa-skill",
+  "version": "0.0.0",
+  "description": "A standalone version of the Amazon Alexa SDK with ES2015 classes.",
+  "homepage": "",
+  "author": {
+    "name": "Gareth Tan",
+    "email": "garethwtan@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "keywords": [],
+  "devDependencies": {
+    "babel-core": "^5.5.0",
+    "gulp": "^3.6.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-coveralls": "^0.1.0",
+    "gulp-eslint": "^0.15.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.9.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-nsp": "^0.4.5",
+    "gulp-plumber": "^1.0.0",
+    "sinon": "^1.16.1"
+  },
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "Apache-2.0"
+}
