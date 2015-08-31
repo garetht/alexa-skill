@@ -8,3 +8,7 @@ AlexaSkill class.
 export class LaunchableSkill extends AlexaSkill {
   onLaunchEvent() {}
 }
+
+export class ColorisSkill extends LaunchableSkill {
+  handleMyColorIsIntent() {}
+}

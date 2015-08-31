@@ -1,6 +1,6 @@
 import sinon from 'sinon';
 
-export default sinon.mock({
+export default {
   succeed: function(){},
   fail: function(){},
   done: function(){},
@@ -12,4 +12,4 @@ export default sinon.mock({
   identity: undefined,
   logGroupName: undefined,
   functionName: undefined
-})
+}
